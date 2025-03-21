@@ -31,33 +31,23 @@ To set up the project locally, follow these steps:
 
 1️⃣ Clone the repository:
 
-bash
-Copy
-Edit
+
 git clone https://github.com/ShibhuRathore/DSA_VISUALIZER.git
 2️⃣ Navigate to the project folder:
 
-bash
-Copy
-Edit
+
 cd DSA-Visualization-Project
 3️⃣ Install dependencies:
 
-bash
-Copy
-Edit
+
 npm install
 4️⃣ Start the development server:
 
-bash
-Copy
-Edit
+
 npm run dev
 5️⃣ Open your browser and visit:
 
-arduino
-Copy
-Edit
+
 http://localhost:5173
 🤝 Contributing
 Contributions are highly welcome! If you have ideas for new features, improvements, or bug fixes, feel free to:
